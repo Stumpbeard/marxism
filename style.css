@@ -1,0 +1,13 @@
+body {
+    max-width: 70ch;
+    font-family: sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    color: #333;
+    background: #ddd;
+}
+
+h1,
+h2 {
+    text-align: center;
+}
